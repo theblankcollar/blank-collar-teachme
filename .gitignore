@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python (in case scripts get added later)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Node (in case packaging is added)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Local environment
+.env
+.env.local
+
+# Claude/AI artifacts
+.claude/
+*.skill
