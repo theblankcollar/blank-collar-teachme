@@ -64,7 +64,7 @@ The teaching system works with any capable AI assistant that can follow detailed
 For Claude Code or any Claude environment that supports skills:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/blank-collar-teachme.git ~/.claude/skills/blank-collar-teachme
+git clone https://github.com/theblankcollar/blank-collar-teachme.git ~/.claude/skills/blank-collar-teachme
 ```
 
 For Claude Desktop with Projects: open a Project, paste the contents of `SKILL.md` into the Project's custom instructions.
@@ -206,7 +206,7 @@ You can use, modify, and redistribute this system for personal or commercial pur
 
 When you share, fork, embed, or build on this system, include this line somewhere reasonable (a footer, a credits section, an "About" page, the README of your fork):
 
-> Based on Blank Collar Teachme by Kristian Kabashi. https://github.com/YOUR-USERNAME/blank-collar-teachme
+> Based on Blank Collar Teachme by Kristian Kabashi. https://github.com/theblankcollar/blank-collar-teachme
 
 That's it. No payment, no permission requests, no other strings. Just the credit.
 
