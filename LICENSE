@@ -1,40 +1,34 @@
-Blank Collar Teachme License (Attribution Required)
+MIT License with Attribution
 
-Copyright (c) 2026 Kristian Kabashi
+Copyright (c) 2026 Kristian Kabashi / The Blank Collar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this skill and associated documentation files (the "Skill"), to deal
-in the Skill without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Skill, and to permit persons to whom the Skill is furnished
-to do so, subject to the following conditions:
+of this software, skill, and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. ATTRIBUTION REQUIREMENT
-   Any use, distribution, modification, fork, or derivative work of this Skill
-   must include visible attribution to the original author. The attribution
-   must include:
-   
-   - The name "Kristian Kabashi" as the original author
-   - A link back to the original repository
-   
-   Acceptable placements include (but are not limited to): a README file,
-   a credits section, an "About" page, the footer of a deployed product,
-   or comments at the top of the SKILL.md file. The attribution must be
-   reasonably visible to end users or other developers encountering the
-   derived work.
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
 
-2. INCLUSION OF NOTICES
-   The above copyright notice, this attribution requirement, and the
-   permission notice shall be included in all copies or substantial portions
-   of the Skill.
+2. ATTRIBUTION REQUIREMENT: Any public distribution, derivative work, fork, or
+   integration of this Software, including modified versions, must include
+   visible attribution to the original author and project name in user-facing
+   documentation, README files, or equivalent. Acceptable formats include:
 
-3. NO WARRANTY
-   THE SKILL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SKILL OR THE USE OR
-   OTHER DEALINGS IN THE SKILL.
+   "Based on Blank Collar Teachme by Kristian Kabashi
+    (https://github.com/<owner>/blank-collar-teachme)"
 
-This license is based on the MIT License with an added attribution clause.
+   or equivalent wording that clearly identifies the original source.
+
+3. The attribution requirement does not apply to private, internal, or
+   non-distributed use of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
